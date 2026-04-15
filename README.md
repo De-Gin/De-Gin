@@ -14,8 +14,8 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=NOT-Link&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/NOT-Link)
-[![GitHub followers](https://img.shields.io/github/followers/NOT-Link?style=for-the-badge&color=00d9ff&labelColor=0a0a0a&logo=github)](https://github.com/NOT-Link?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=De-Gin&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/De-Gin)
+[![GitHub followers](https://img.shields.io/github/followers/De-Gin?style=for-the-badge&color=00d9ff&labelColor=0a0a0a&logo=github)](https://github.com/De-Gin?tab=followers)
 
 </div>
 
@@ -26,7 +26,7 @@
 ## `> whoami`
 
 ```yaml
-name: NOT-Link
+name: De-Gin
 role: CS Student | Python & Java Developer
 focus: Automation · Web Scraping · AI Integration
 mission: Building tools that eliminate repetitive work
@@ -86,12 +86,12 @@ const whatIBuild = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NOT-Link&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=00d9ff&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NOT-Link&theme=radical&background=0a0a0a&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=ffffff&sideNums=ffffff&dates=888888&border=00d9ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=De-Gin&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=00d9ff&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=De-Gin&theme=radical&background=0a0a0a&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=ffffff&sideNums=ffffff&dates=888888&border=00d9ff" />
 
 <br><br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOT-Link&layout=compact&theme=radical&bg_color=0a0a0a&title_color=00d9ff&text_color=ffffff&border_color=00d9ff&langs_count=6" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=De-Gin&layout=compact&theme=radical&bg_color=0a0a0a&title_color=00d9ff&text_color=ffffff&border_color=00d9ff&langs_count=6" />
 
 </div>
 
@@ -103,7 +103,7 @@ const whatIBuild = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NOT-Link&bg_color=0a0a0a&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=false&custom_title=Contribution%20Timeline)](https://github.com/NOT-Link)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=De-Gin&bg_color=0a0a0a&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=false&custom_title=Contribution%20Timeline)](https://github.com/De-Gin)
 
 </div>
 
