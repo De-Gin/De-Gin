@@ -33,7 +33,6 @@ mission: Building tools that eliminate repetitive work
 status: Open to freelance projects
 ```
 
-> _I write code that works while you sleep. Automation scripts, web scrapers, AI-powered tools — if it can be automated, I'll build it._
 
 ---
 
@@ -97,40 +96,6 @@ const whatIBuild = {
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-
-## `> activity.graph()`
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=De-Gin&bg_color=0a0a0a&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=false&custom_title=Contribution%20Timeline)](https://github.com/De-Gin)
-
-</div>
-
----
-
-<!-- CONNECT -->
-
-## `> connect.init()`
-
-<div align="center">
-
-```
- ╔══════════════════════════════════════════════════════════╗
- ║                                                          ║
- ║   💼  Open to freelance work & collaborations            ║
- ║   📫  Reach me on Upwork or drop a message               ║
- ║   ⚡  Let's automate something together                  ║
- ║                                                          ║
- ╚══════════════════════════════════════════════════════════╝
-```
-
-[![Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-0a0a0a?style=for-the-badge&logo=upwork&logoColor=00d9ff)](https://www.upwork.com)
-[![Email](https://img.shields.io/badge/Email_Me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00d9ff)](mailto:your.email@example.com)
-
-</div>
-
----
 
 <div align="center">
 
