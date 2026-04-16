@@ -50,6 +50,9 @@ status: Open to freelance projects
 ![Hibernate](https://img.shields.io/badge/Hibernate-0a0a0a?style=for-the-badge&logo=hibernate&logoColor=7B2FBE)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=7B2FBE)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=7B2FBE)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=8B00FF)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=8B00FF)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=8B00FF)
 
 ### 🤖 AI & APIs
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-0a0a0a?style=for-the-badge&logo=openai&logoColor=7B2FBE)
